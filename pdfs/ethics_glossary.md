@@ -1,29 +1,28 @@
 # Glossary
 
-## Chapter 1: Plato
-| Term | Definition |
+## Chapter 1: Plato| Term | Definition |
 |------|------------|
-| Descriptive Ethics | A branch of ethical study that examines how people actually behave and what moral beliefs they hold, without making judgments about right or wrong |
-| Normative Ethics | The branch of philosophy concerned with determining how people ought to act and what is inherently right or wrong |
-| Theoretical Ethics | The philosophical examination of moral frameworks, concepts, and justifications that underpin ethical reasoning |
-| Applied Ethics | The practical application of moral theories to specific issues like medical ethics, business ethics, or environmental concerns |
-| Socrates | Ancient Greek philosopher (470-399 BCE) who developed the Socratic method of questioning assumptions and initiated Western ethical philosophy |
-| Moral Realism | The philosophical view that objective moral facts and truths exist independently of what people believe or feel about them |
-| Moral Relativism | The view that moral truths are relative to particular cultures or individuals, with no universal ethical standards |
-| Allegory of the Cave | Plato's metaphor illustrating how most people perceive only shadows of reality while philosophers can access deeper truths |
-| Tripartite Soul | Plato's model dividing the human soul into reason (logic), spirit (honor/courage), and appetite (desires/needs) |
-| Form (Platonic) | Perfect, unchanging, abstract entities that represent the true nature of things, existing beyond the physical world |
-| Form of the Good | Plato's supreme Form representing the ultimate source of all knowledge, truth, and goodness in the universe |
-| Ethical Egoism | The moral theory that people ought to act in their own self-interest, viewing this as the foundation of ethical behavior |
-| Cultural Relativism | The descriptive view that moral beliefs and practices vary between cultures, often extended to claim no culture's morals are superior |
-| Divine Command Theory | The view that moral rightness is determined solely by God's commands or will |
-| Euthyphro Dilemma | Socrates' challenge asking whether actions are moral because gods command them, or if gods command them because they are moral |
-| Philosopher-rulers | Plato's ideal leaders who, having achieved the highest wisdom through philosophical training, should govern society justly |
-| Dialectical Method | A form of philosophical investigation using structured dialogue, logical argumentation, and questioning to arrive at truth |
-| Ring of Gyges | Plato's thought experiment about a ring granting invisibility, exploring whether people would act morally if free from consequences |
-| Reason (logistikon) | The rational part of the soul in Plato's psychology that seeks truth and wisdom, meant to guide the other elements |
-| Spirit (thymoeides) | The spirited or courageous element of the soul that responds to honor and shame, aligning with reason to control desires |
-| Appetitive (epithymetikon) | The desiring part of the soul concerned with physical pleasures, needs, and material acquisition, requiring regulation by reason |
-| Moral Skepticism | The philosophical position that questions whether objective moral knowledge or justified moral beliefs are possible |
-| The Republic | Plato's seminal work exploring justice, the ideal state, and human nature through dialogue, featuring the theory of forms and social structure |
-| Sophists | Ancient Greek teachers who, for payment, taught rhetoric and argued that truth and morality were relative to individual perspective |
+| Descriptive Ethics | A methodological approach in moral philosophy that empirically studies and documents how different groups and societies actually make moral decisions, form ethical beliefs, and behave in practice. This branch focuses on observation and analysis without making value judgments |
+| Normative Ethics | The philosophical investigation of how humans ought to live, examining principles for right action and frameworks for moral evaluation. Addresses fundamental questions about obligations, virtues, consequences, and the foundations of moral behavior |
+| Theoretical Ethics | A systematic examination of the conceptual foundations and abstract principles underlying moral reasoning, including analysis of meta-ethical questions about the nature of morality itself and the logical structure of ethical arguments |
+| Applied Ethics | The practical examination of specific moral issues in real-world contexts, using ethical frameworks to analyze concrete problems in medicine, business, technology, environment, and other domains. Focuses on developing actionable guidance for complex situations |
+| Socrates | Foundational figure in Western philosophy (470-399 BCE) who developed systematic questioning to examine beliefs and assumptions. Emphasized the pursuit of wisdom, self-knowledge, and virtue while challenging conventional thinking in Athens |
+| Moral Realism | The philosophical position that moral facts and properties exist objectively in the world, independent of what anyone believes about them, similar to how scientific facts exist independently of belief. These moral truths are discovered rather than invented |
+| Moral Relativism | The philosophical view that moral truths depend on the context, culture, or individual making the judgment. Denies universal moral standards and argues that ethical principles are only valid relative to particular standpoints or frameworks |
+| Allegory of the Cave | A profound metaphorical narrative illustrating the journey from ignorance to enlightenment, depicting prisoners who mistake shadows for reality until one escapes and discovers the true nature of the world, representing philosophical education |
+| Tripartite Soul | A psychological model dividing human consciousness into three distinct but interacting elements, each with specific functions and virtues. When properly balanced, these elements create harmony and justice within the individual |
+| Form (Platonic) | Perfect, eternal, and unchanging abstractions that represent the true essence of things, existing in a realm beyond physical reality. These serve as the ultimate reference points for all earthly instances and knowledge |
+| Form of the Good | The highest and most fundamental principle in reality, representing the source of all truth, beauty, and moral value. Acts as the ultimate cause of knowledge and being, illuminating all other forms and enabling understanding |
+| Ethical Egoism | A normative theory claiming that moral agents ought to do what is in their own self-interest, arguing that this leads to optimal outcomes. Distinguishes between rational self-interest and mere selfishness |
+| Cultural Relativism | An anthropological observation that moral practices and beliefs vary significantly across societies, often extended into a normative claim that each culture's moral framework can only be judged by its own standards |
+| Divine Command Theory | An ethical framework proposing that moral status is determined exclusively by supernatural authority, making actions right or wrong solely based on divine will rather than independent moral criteria |
+| Euthyphro Dilemma | A fundamental philosophical puzzle exploring the relationship between divinity and morality, challenging whether divine approval makes actions moral or whether actions are approved because they are independently moral |
+| Philosopher-rulers | Specially educated guardians who, through rigorous training in mathematics, dialectic, and philosophy, develop the wisdom necessary to govern justly. Must abandon private property and family to focus solely on the common good |
+| Dialectical Method | A sophisticated form of philosophical investigation using structured conversation and logical analysis to progress from common beliefs to higher understanding. Involves systematic questioning, hypothesis testing, and rational argument |
+| Ring of Gyges | An ethical thought experiment exploring whether people would behave justly if freed from social consequences, using the story of a shepherd who discovers a ring granting invisibility. Questions whether justice is intrinsically valuable |
+| Reason (logistikon) | The highest faculty of the soul responsible for wisdom, truth-seeking, and rational judgment. Guards the interests of the whole soul by governing desires and directing actions toward genuine good |
+| Spirit (thymoeides) | The noble element of the soul manifesting as righteous indignation, moral courage, and love of honor. When properly trained, allies with reason to maintain psychological harmony and resist base appetites |
+| Appetitive (epithymetikon) | The largest part of the soul encompassing basic drives, desires for pleasure, and material wants. Must be regulated by reason and spirit to prevent it from overwhelming the soul's higher functions |
+| Moral Skepticism | A philosophical stance questioning whether definitive moral knowledge is possible, challenging the foundations of ethical claims and our ability to justify moral beliefs with certainty |
+| The Republic | A comprehensive philosophical masterwork examining the nature of justice through parallel analyses of the human soul and the ideal state. Integrates metaphysics, psychology, education, and political theory |
+| Sophists | Professional educators in ancient Greece who taught rhetoric and practical skills for success, advocating a pragmatic relativism that challenged traditional moral values and claimed truth was dependent on human perception |
