@@ -1,0 +1,30 @@
+# Glossary
+
+## Chapter 1: Plato
+
+| Term | Definition |
+|------|------------|
+| Descriptive Ethics | A methodological approach in moral philosophy that empirically studies and documents how different groups and societies actually make moral decisions, form ethical beliefs, and behave in practice. This branch focuses on observation and analysis without making value judgments |
+| Normative Ethics | The philosophical investigation of how humans ought to live, examining principles for right action and frameworks for moral evaluation. Addresses fundamental questions about obligations, virtues, consequences, and the foundations of moral behavior |
+| Theoretical Ethics | A systematic examination of the conceptual foundations and abstract principles underlying moral reasoning, including analysis of meta-ethical questions about the nature of morality itself and the logical structure of ethical arguments |
+| Applied Ethics | The practical examination of specific moral issues in real-world contexts, using ethical frameworks to analyze concrete problems in medicine, business, technology, environment, and other domains. Focuses on developing actionable guidance for complex situations |
+| Socrates | Foundational figure in Western philosophy (470-399 BCE) who developed systematic questioning to examine beliefs and assumptions. Emphasized the pursuit of wisdom, self-knowledge, and virtue while challenging conventional thinking in Athens |
+| Moral Realism | The philosophical position that moral facts and properties exist objectively in the world, independent of what anyone believes about them, similar to how scientific facts exist independently of belief. These moral truths are discovered rather than invented |
+| Moral Relativism | The philosophical view that moral truths depend on the context, culture, or individual making the judgment. Denies universal moral standards and argues that ethical principles are only valid relative to particular standpoints or frameworks |
+| Allegory of the Cave | A profound metaphorical narrative illustrating the journey from ignorance to enlightenment, depicting prisoners who mistake shadows for reality until one escapes and discovers the true nature of the world, representing philosophical education |
+| Tripartite Soul | A psychological model dividing human consciousness into three distinct but interacting elements, each with specific functions and virtues. When properly balanced, these elements create harmony and justice within the individual |
+| Form (Platonic) | Perfect, eternal, and unchanging abstractions that represent the true essence of things, existing in a realm beyond physical reality. These serve as the ultimate reference points for all earthly instances and knowledge |
+| Form of the Good | The highest and most fundamental principle in reality, representing the source of all truth, beauty, and moral value. Acts as the ultimate cause of knowledge and being, illuminating all other forms and enabling understanding |
+| Ethical Egoism | A normative theory claiming that moral agents ought to do what is in their own self-interest, arguing that this leads to optimal outcomes. Distinguishes between rational self-interest and mere selfishness |
+| Cultural Relativism | An anthropological observation that moral practices and beliefs vary significantly across societies, often extended into a normative claim that each culture's moral framework can only be judged by its own standards |
+| Divine Command Theory | An ethical framework proposing that moral status is determined exclusively by supernatural authority, making actions right or wrong solely based on divine will rather than independent moral criteria |
+| Euthyphro Dilemma | A fundamental philosophical puzzle exploring the relationship between divinity and morality, challenging whether divine approval makes actions moral or whether actions are approved because they are independently moral |
+| Philosopher-rulers | Specially educated guardians who, through rigorous training in mathematics, dialectic, and philosophy, develop the wisdom necessary to govern justly. Must abandon private property and family to focus solely on the common good |
+| Dialectical Method | A sophisticated form of philosophical investigation using structured conversation and logical analysis to progress from common beliefs to higher understanding. Involves systematic questioning, hypothesis testing, and rational argument |
+| Ring of Gyges | An ethical thought experiment exploring whether people would behave justly if freed from social consequences, using the story of a shepherd who discovers a ring granting invisibility. Questions whether justice is intrinsically valuable |
+| Reason (logistikon) | The highest faculty of the soul responsible for wisdom, truth-seeking, and rational judgment. Guards the interests of the whole soul by governing desires and directing actions toward genuine good |
+| Spirit (thymoeides) | The noble element of the soul manifesting as righteous indignation, moral courage, and love of honor. When properly trained, allies with reason to maintain psychological harmony and resist base appetites |
+| Appetitive (epithymetikon) | The largest part of the soul encompassing basic drives, desires for pleasure, and material wants. Must be regulated by reason and spirit to prevent it from overwhelming the soul's higher functions |
+| Moral Skepticism | A philosophical stance questioning whether definitive moral knowledge is possible, challenging the foundations of ethical claims and our ability to justify moral beliefs with certainty |
+| The Republic | A comprehensive philosophical masterwork examining the nature of justice through parallel analyses of the human soul and the ideal state. Integrates metaphysics, psychology, education, and political theory |
+| Sophists | Professional educators in ancient Greece who taught rhetoric and practical skills for success, advocating a pragmatic relativism that challenged traditional moral values and claimed truth was dependent on human perception |
