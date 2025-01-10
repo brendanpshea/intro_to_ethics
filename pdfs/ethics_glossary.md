@@ -1,6 +1,8 @@
 # Glossary
 
-## Chapter 1: Plato| Term | Definition |
+## Chapter 1: Plato
+
+| Term | Definition |
 |------|------------|
 | Descriptive Ethics | A methodological approach in moral philosophy that empirically studies and documents how different groups and societies actually make moral decisions, form ethical beliefs, and behave in practice. This branch focuses on observation and analysis without making value judgments |
 | Normative Ethics | The philosophical investigation of how humans ought to live, examining principles for right action and frameworks for moral evaluation. Addresses fundamental questions about obligations, virtues, consequences, and the foundations of moral behavior |
