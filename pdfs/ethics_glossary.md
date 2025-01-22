@@ -43,12 +43,12 @@
 | David Hume | Scottish philosopher (1711-1776) who argued that moral judgments arise primarily from sentiment rather than reason, influencing later ethical theories |
 | Moral sentimentalism | The view that moral judgments and knowledge arise primarily from emotional responses and cultivated moral sentiments rather than abstract reasoning |
 | Jeremy Bentham | English philosopher (1748-1832) who systematized utilitarian ethics and argued for social reforms based on maximizing happiness for all |
-| Felicific Calculus | A method proposed for measuring the quantity of pleasure or pain produced by actions by considering factors like intensity, duration, certainty, and extent |
+| Felicific Calculus | Bentham's proposed method for measuring the quantity of pleasure or pain produced by actions by considering factors like intensity, duration, certainty, and extent |
 | John Stuart Mill | English philosopher (1806-1873) who refined utilitarian theory by distinguishing between higher and lower pleasures and defending individual liberty |
 | Harriet Taylor Mill | English philosopher (1807-1858) who collaborated with J.S. Mill on developing utilitarian theory and argued for women's rights and equality |
-| Higher pleasure | Those pleasures that engage the intellect and cultivated faculties, argued to be qualitatively superior to purely physical or sensual pleasures |
-| Harm Principle | The ethical and political principle that power should only be exercised over members of a civilized community to prevent harm to others |
-| Proportional Representation | A voting system advocated by J.S. Mill (among others) where legislative seats are allocated based on the percentage of votes each party receives, ensuring minority views have political voice |
+| Higher pleasure | Mill's concept of pleasures that engage the intellect and cultivated faculties, argued to be qualitatively superior to purely physical or sensual pleasures |
+| Harm Principle | Mill's ethical and political principle that power should only be exercised over members of a civilized community to prevent harm to others |
+| Proportional Representation | A voting system advocated by J.S. Mill where legislative seats are allocated based on the percentage of votes each party receives, ensuring minority views have political voice |
 | The Subjection of Women | Influential 1869 essay by J.S. Mill and Harriet Taylor Mill arguing against legal and social inequalities faced by women and defending complete gender equality |
 | Act Utilitarianism | The view that the right action in any situation is the one that produces the best overall consequences, evaluated on a case-by-case basis |
 | Rule Utilitarianism | The position that right actions are those that conform to rules which, if generally adopted, would produce the greatest good for society |
@@ -60,7 +60,5 @@
 | Maximizing Utilitarianism | The standard view that we should always choose actions that produce the absolutely best consequences possible |
 | Satisficing Utilitarianism | The view that we should aim for "good enough" outcomes rather than the absolute best, accepting that maximizing can be too demanding |
 | Peter Singer | Contemporary philosopher (1946-present) known for applying utilitarian ethics to animal welfare, global poverty, and effective altruism |
-| Speciesism | The practice of giving preferential treatment to human interests solely based on species membership, argued to be a form of prejudice |
-| Drowning Child | Thought experiment arguing that if we would save a drowning child at small personal cost, we have similar obligations to save lives through charitable giving |
-
-##
+| Speciesism | The practice of giving preferential treatment to human interests solely based on species membership, argued by Singer to be a form of prejudice |
+| Drowning Child | Singer's thought experiment arguing that if we would save a drowning child at small personal cost, we have similar obligations to save lives through charitable giving |
