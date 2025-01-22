@@ -34,7 +34,7 @@
 | Term | Definition |
 |------|------------|
 | Utility | A measure of well-being, happiness, or satisfaction that can be used to evaluate the moral worth of actions and their consequences |
-| Utilitarianism | An ethical framework that judges the morality of actions based on their consequences, specifically their ability to maximize the greatest good for the greatest number of people |
+| Utilitarianism | An ethical framework that judges the morality of actions based on their consequences, specifically their ability to maximize the greatest good for all affected beings, not just the individual agent |
 | Epicurus | Ancient Greek philosopher (341-270 BCE) who developed a sophisticated version of hedonistic ethics focused on achieving sustainable happiness through moderation and philosophical wisdom |
 | Egoistic Hedonism | The ethical view that one should pursue one's own pleasure as the highest good, while acknowledging that sustainable pleasure requires moderation and wisdom |
 | Atararaxia | The state of tranquility and freedom from mental disturbance that Epicurean philosophy identified as the highest form of happiness |
@@ -50,15 +50,15 @@
 | Harm Principle | Mill's ethical and political principle that power should only be exercised over members of a civilized community to prevent harm to others |
 | Proportional Representation | A voting system advocated by J.S. Mill where legislative seats are allocated based on the percentage of votes each party receives, ensuring minority views have political voice |
 | The Subjection of Women | Influential 1869 essay by J.S. Mill and Harriet Taylor Mill arguing against legal and social inequalities faced by women and defending complete gender equality |
-| Act Utilitarianism | The view that the right action in any situation is the one that produces the best overall consequences, evaluated on a case-by-case basis |
-| Rule Utilitarianism | The position that right actions are those that conform to rules which, if generally adopted, would produce the greatest good for society |
-| Hedonistic Utilitarianism | The classical utilitarian view that defines well-being purely in terms of pleasure and pain, seeking to maximize pleasure and minimize suffering |
-| Preference Utilitarianism | A modern variant focusing on satisfying informed preferences rather than just maximizing pleasure or happiness |
+| Act Utilitarianism | The view that the right action in any situation is the one that produces the best overall consequences for all affected beings, evaluated on a case-by-case basis |
+| Rule Utilitarianism | The position that right actions are those that conform to rules which, if generally adopted, would produce the greatest good for all affected beings in society |
+| Hedonistic Utilitarianism | The classical utilitarian view that defines well-being purely in terms of pleasure and pain, seeking to maximize pleasure and minimize suffering for all sentient beings |
+| Preference Utilitarianism | A modern variant of utilitarianism focusing on satisfying the informed preferences of all affected beings rather than just maximizing pleasure or happiness |
 | Total Utilitarianism | The view that we should maximize the total amount of well-being, regardless of how it is distributed across individuals |
 | Average Utilitarianism | The position that we should maximize the average level of well-being per person rather than the total sum |
 | Longtermism | The ethical view that we should give significant moral weight to how our actions affect the long-term future of humanity and sentient life |
-| Maximizing Utilitarianism | The standard view that we should always choose actions that produce the absolutely best consequences possible |
-| Satisficing Utilitarianism | The view that we should aim for "good enough" outcomes rather than the absolute best, accepting that maximizing can be too demanding |
+| Maximizing Utilitarianism | A version of utilitarianism holding that we should always choose actions that produce the absolutely best consequences possible |
+| Satisficing Utilitarianism | A version of utilitarianism holding that we should aim for "good enough" outcomes rather than the absolute best, accepting that maximizing can be too demanding |
 | Peter Singer | Contemporary philosopher (1946-present) known for applying utilitarian ethics to animal welfare, global poverty, and effective altruism |
 | Speciesism | The practice of giving preferential treatment to human interests solely based on species membership, argued by Singer to be a form of prejudice |
 | Drowning Child | Singer's thought experiment arguing that if we would save a drowning child at small personal cost, we have similar obligations to save lives through charitable giving |
