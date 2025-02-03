@@ -62,3 +62,33 @@
 | Peter Singer | Contemporary philosopher (1946-present) known for applying utilitarian ethics to animal welfare, global poverty, and effective altruism |
 | Speciesism | The practice of giving preferential treatment to human interests solely based on species membership, argued by Singer to be a form of prejudice |
 | Drowning Child | Singer's thought experiment arguing that if we would save a drowning child at small personal cost, we have similar obligations to save lives through charitable giving |
+
+
+## Chapter 3: Deontology
+| Term | Definition |
+|------|------------|
+| Deontology | An ethical framework focusing on the inherent rightness or wrongness of actions based on moral rules and duties, rather than their consequences. Central to this approach is the belief that certain actions are intrinsically moral or immoral, regardless of their outcomes. |
+| Golden Rule | A fundamental ethical principle found across cultures and religions that directs one to treat others as one would wish to be treated. This reciprocal principle serves as a basic guideline for moral behavior and interpersonal relations. |
+| Immanuel Kant | An 18th-century German philosopher (1724-1804) who revolutionized moral philosophy through systematic ethical theory based on reason and duty. His work established the foundations of modern deontological ethics and continues to influence contemporary moral philosophy. |
+| Good Will | The only thing Kant considered unconditionally good - a sincere intention to do what is right because it is right, regardless of consequences. This pure moral motivation contrasts with actions done from self-interest or inclination. |
+| Hypothetical Imperative | A conditional command that directs action based on desired outcomes or goals. These practical rules take the form "If you want X, then do Y," making them dependent on particular aims rather than universal moral obligations. |
+| Categorical Imperative | Kant's supreme principle of morality - an unconditional moral command that applies to all rational beings regardless of desires or consequences. This fundamental principle serves as the basis for determining universal moral duties. |
+| Universalizability Formula | The first formulation of Kant's Categorical Imperative stating one should act only according to rules that could become universal laws of nature. This test reveals moral duties by examining whether the maxim of an action could consistently be willed as a universal practice. |
+| Humanity Formula | The second formulation of Kant's Categorical Imperative directing us to treat humanity, whether in our own person or others, always as an end in itself and never merely as a means. This emphasizes the inherent dignity and autonomy of rational beings. |
+| Mere means | Using someone solely as a tool for achieving one's ends without regard for their own purposes and autonomy. This violates the Humanity Formula by failing to respect the intrinsic worth of rational beings. |
+| End in themself | A being with inherent worth and dignity who must be respected as having their own purposes, rather than existing merely to serve others' ends. Kant considered all rational beings to possess this intrinsic value. |
+| Kingdom of Ends Formula | The third formulation of Kant's Categorical Imperative envisioning a systematic union of rational beings under common moral laws they give themselves. This ideal moral community combines universal law with respect for autonomy. |
+| W.D Ross | A 20th-century British philosopher (1877-1971) who developed an influential pluralistic deontological theory based on multiple irreducible moral duties that can conflict in particular situations. |
+| Prima facie duty | An initial moral obligation that is binding unless overridden by stronger duties in a particular situation. Ross argued that these basic moral requirements form the foundation of ethical decision-making. |
+| Moral pluralism | The view that there are multiple, irreducible moral principles or values that cannot be reduced to a single supreme principle. This perspective acknowledges the complexity of moral life and the reality of ethical conflicts. |
+| Duty of fidelity | A prima facie obligation to keep promises and be truthful. This fundamental requirement of moral life helps maintain trust and cooperation in human relationships. |
+| Duty of reparation | A prima facie obligation to compensate others for harms or wrongs we have done to them. This duty acknowledges our responsibility to make amends for our harmful actions. |
+| Duty of gratitude | A prima facie obligation to return benefits to those who have helped us. This duty recognizes the moral importance of acknowledging and reciprocating the goodwill of others. |
+| Duty of justice | A prima facie obligation to ensure people receive what they deserve and to distribute benefits and burdens fairly. This fundamental moral requirement underlies many specific ethical obligations. |
+| Duty of beneficence | A prima facie obligation to improve the conditions of others by promoting their good. This positive duty calls for active contribution to others' wellbeing beyond mere avoidance of harm. |
+| Duty of non-maleficence | A prima facie obligation to avoid causing harm to others. This negative duty serves as a basic constraint on action and is often considered stronger than the duty of beneficence. |
+| Duty of special relations | A prima facie obligation arising from specific relationships or roles, such as family ties or professional positions. These special duties acknowledge the moral significance of particular human connections. |
+| Threshold deontology | A modified form of deontological ethics that allows for consequence-based reasoning when the stakes exceed certain thresholds. This approach attempts to balance rule-based and consequentialist considerations. |
+| Side constraint | A moral restriction on pursuing good outcomes, reflecting the idea that certain actions are forbidden regardless of their consequences. These constraints protect fundamental rights and duties from utilitarian override. |
+| Quantitative threshold | A numerical level of harm or benefit at which deontological constraints might be outweighed by consequences. This represents one approach to resolving conflicts between rules and outcomes. |
+| Qualitative threshold | A type or category of situation in which deontological constraints might be overridden, based on the nature rather than the quantity of the consequences. This allows for context-sensitive ethical judgment while maintaining basic moral principles. |
