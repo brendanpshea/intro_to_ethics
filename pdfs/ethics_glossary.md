@@ -92,3 +92,40 @@
 | Side constraint | A moral restriction on pursuing good outcomes, reflecting the idea that certain actions are forbidden regardless of their consequences. These constraints protect fundamental rights and duties from utilitarian override. |
 | Quantitative threshold | A numerical level of harm or benefit at which deontological constraints might be outweighed by consequences. This represents one approach to resolving conflicts between rules and outcomes. |
 | Qualitative threshold | A type or category of situation in which deontological constraints might be overridden, based on the nature rather than the quantity of the consequences. This allows for context-sensitive ethical judgment while maintaining basic moral principles. |
+
+
+
+## Chapter 4: Virtue Ethics
+
+| Term | Definition |
+|---|---|
+| Virtue Ethics | A moral philosophy focusing on character development and what traits constitute a good person, rather than on actions or consequences |
+| Aristotle | Ancient Greek philosopher (384-322 BCE) who developed systematic virtue ethics and founded the Lyceum in Athens |
+| Nicomachean Ethics | Major philosophical work examining moral character, happiness, and the good life through the lens of virtue and practical wisdom |
+| Phronesis | Practical wisdom that enables one to deliberate well about what is good and advantageous in particular situations |
+| Sophia | Theoretical wisdom concerned with universal truths and first principles of reality |
+| Eudaimonia | The highest human good, characterized by flourishing and living well through the exercise of reason and virtue |
+| Function Argument | Philosophical reasoning that human excellence lies in fulfilling our distinctive function: the rational activity of the soul in accordance with virtue |
+| Doctrine of the Mean | Principle that virtue lies between deficiency and excess, requiring practical wisdom to determine the right amount in each situation |
+| Moral Virtues | Character traits like courage, temperance, and justice that regulate emotions and desires, developed through practice and habit |
+| Intellectual Virtues | Excellences of thought like wisdom, intelligence, and good judgment that enable understanding of truth and right action |
+| Habituation | Process of character development through repeated practice of virtuous actions until they become natural dispositions |
+| External Goods | Resources like wealth, health, and social connections that support but don't guarantee virtuous living |
+| Virtuous Friendship | Highest form of friendship based on mutual appreciation of good character rather than pleasure or utility |
+| Moral Exemplar | Person of outstanding character who demonstrates practical wisdom and virtue, serving as a model for others |
+| Confucius | Chinese philosopher (551-479 BCE) who developed an ethics centered on moral cultivation, ritual propriety, and social harmony |
+| Ren | Fundamental Confucian virtue combining benevolence, humaneness, and moral sensitivity toward others |
+| Yi | Moral rightness and justice; the capacity to recognize and do what is appropriate in each situation |
+| Li | System of ritual propriety governing behavior and relationships, essential for moral development and social order |
+| Xiao | Confucian virtue of filial piety encompassing respect, care, and obligation toward parents and ancestors |
+| Five Relationships | Core Confucian social bonds: ruler-subject, father-son, husband-wife, elder-younger sibling, and friend-friend |
+| Self-Cultivation | Lifelong process of moral development through education, practice, and refinement of character |
+| GEM Anscombe | 20th century philosopher whose work "Modern Moral Philosophy" revived interest in virtue ethics |
+| Alasdair MacIntyre | Contemporary philosopher who critiqued modern moral theory and defended virtue ethics through historical analysis |
+| Rosalind Hursthouse | Contemporary philosopher who developed systematic neo-Aristotelian virtue ethics |
+| Care Ethics | Moral framework emphasizing relationships, context, and responding to needs rather than abstract principles |
+| Carol Gilligan | Psychologist who challenged male-centered moral development theory and identified distinct patterns in women's moral reasoning |
+| Nel Noddings | Philosopher who developed theoretical foundations of care ethics in education and moral life |
+| Care | Attentive, responsive relationship involving recognition of and appropriate response to others' needs |
+| Relationality | View that moral life is fundamentally shaped by relationships and interconnections rather than autonomous individuals |
+| Particularity | Focus on specific contexts, relationships, and details rather than universal rules or principles |
