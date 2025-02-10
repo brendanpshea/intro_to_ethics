@@ -101,7 +101,7 @@
 |---|---|
 | Virtue Ethics | A moral philosophy focusing on character development and what traits constitute a good person, rather than on actions or consequences |
 | Aristotle | Ancient Greek philosopher (384-322 BCE) who developed systematic virtue ethics and founded the Lyceum in Athens |
-| Nicomachean Ethics | Major philosophical work examining moral character, happiness, and the good life through the lens of virtue and practical wisdom |
+| Nicomachean Ethics | Major philosophical work by Aristotle examining moral character, happiness, and the good life through the lens of virtue and practical wisdom |
 | Phronesis | Practical wisdom that enables one to deliberate well about what is good and advantageous in particular situations |
 | Sophia | Theoretical wisdom concerned with universal truths and first principles of reality |
 | Eudaimonia | The highest human good, characterized by flourishing and living well through the exercise of reason and virtue |
