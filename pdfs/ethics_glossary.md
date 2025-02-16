@@ -129,3 +129,37 @@
 | Care | Attentive, responsive relationship involving recognition of and appropriate response to others' needs |
 | Relationality | View that moral life is fundamentally shaped by relationships and interconnections rather than autonomous individuals |
 | Particularity | Focus on specific contexts, relationships, and details rather than universal rules or principles |
+
+
+## Natural Law Theory
+
+| Term | Definition |
+|------|------------|
+| Natural law theory | A philosophical and legal framework asserting universal moral principles discoverable through human reason and embedded in the nature of reality itself. These principles are thought to transcend cultural and temporal boundaries. |
+| Stoicism | An ancient Greek philosophical school emphasizing living virtuously in harmony with nature's rational order, emotional self-control, and acceptance of what cannot be changed. |
+| Cosmopolitanism | The philosophical view that all humans belong to a single moral community, emphasizing universal ethical principles over local customs and national boundaries. |
+| Logos | The divine reason or rational principle pervading the universe, giving it order and meaning. In Stoic philosophy, represents the rational basis for natural law. |
+| Cicero | Roman philosopher and statesman (106-43 BCE) who synthesized Greek natural law concepts with Roman legal thought, arguing for universal justice based on right reason. |
+| Ius gentium | The Roman legal concept of universal laws common to all peoples, distinct from civil law and based on natural reason rather than local custom. |
+| Augustine | Christian theologian (354-430 CE) who integrated natural law theory with Christian theology, arguing that eternal law in God's mind is the source of natural law in human reason. |
+| Ibn Sina | Persian philosopher (980-1037 CE) who developed Islamic natural law theory, combining Aristotelian philosophy with Islamic theology to explain moral knowledge and divine law. |
+| Thomas Aquinas | Medieval Christian philosopher (1225-1274) who systematically developed natural law theory, synthesizing Aristotelian philosophy with Christian theology. |
+| Summa Theologica | Aquinas's masterwork presenting a comprehensive system of theology and philosophy, including detailed treatment of natural law's relationship to eternal, divine, and human law. |
+| Eternal Law | Divine wisdom governing the universe, existing in God's mind and directing all things to their proper ends. The source of all other forms of law in Aquinas's system. |
+| Natural Law | The participation of rational creatures in eternal law through their ability to discern right from wrong using reason. Provides the moral foundation for human law. |
+| Human Law | Positive laws created by human authority, which should be derived from and conform to natural law to be legitimate and binding on conscience. |
+| Divine Law | God's direct revelation through scripture, supplementing natural law by providing guidance for humanity's supernatural end and clarifying moral truths. |
+| Primary Precepts | The fundamental, self-evident principles of natural law that form the basis for moral reasoning, including preservation of life, reproduction, education, social living, and worship of God. |
+| Secondary Precepts | More specific moral rules derived from primary precepts through practical reasoning, which may vary across cultures while remaining grounded in universal principles. |
+| Synderesis | The innate human capacity to know basic moral principles and distinguish right from wrong, considered an unchangeable disposition of practical reason. |
+| Doctrine of Double Effect | An ethical principle stating that an action causing harm may be morally permissible if the harm is unintended and proportionate to the good being pursued. |
+| Intention | The purpose or end for which an action is chosen, distinct from its side effects, crucial for moral evaluation in natural law theory. |
+| Proportionality | The requirement that the good achieved by an action must outweigh its harmful effects, a key principle in evaluating moral choices. |
+| Just War Theory | A framework derived from natural law for determining when warfare is morally justified and how it should be conducted. |
+| Jus Ad Bellum | The conditions that must be met to justify initiating war, including just cause, right intention, and proper authority. |
+| Just Cause | A morally sufficient reason for going to war, such as self-defense or protecting the innocent from grave harm. |
+| Proper Authority | The requirement that war must be declared by legitimate governmental power rather than private individuals or groups. |
+| Jus In Bello | The moral principles governing conduct during warfare, including discrimination between combatants and civilians, and proportionate use of force. |
+| Combatant | A person directly participating in armed conflict who may legitimately be targeted in warfare, distinct from civilians who must be protected. |
+| Legal Naturalism | The view that law and morality are inherently connected, with the validity of human laws depending on their conformity to natural law. |
+| Naturalistic Fallacy | The error of deriving normative conclusions (what ought to be) solely from descriptive premises (what is) without proper moral reasoning. |
