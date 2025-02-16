@@ -131,7 +131,7 @@
 | Particularity | Focus on specific contexts, relationships, and details rather than universal rules or principles |
 
 
-## Natural Law Theory
+## Chapter 5: Natural Law Theory
 
 | Term | Definition |
 |------|------------|
