@@ -163,3 +163,28 @@
 | Combatant | A person directly participating in armed conflict who may legitimately be targeted in warfare, distinct from civilians who must be protected. |
 | Legal Naturalism | The view that law and morality are inherently connected, with the validity of human laws depending on their conformity to natural law. |
 | Naturalistic Fallacy | The error of deriving normative conclusions (what ought to be) solely from descriptive premises (what is) without proper moral reasoning. |
+
+## Chapter 6: Social Contract Theory
+
+| Term | Definition |
+|------|------------|
+| Liberal democracy | A system of government that protects individual rights and freedoms, features free and fair elections, separation of powers, and rule of law while allowing citizens to participate in political processes. |
+| Social contract theory | A philosophical framework proposing that individuals consent to surrender some freedoms to an authority in exchange for social order and protection of remaining rights. |
+| State of nature | A hypothetical condition where humans existed before government formation, used by philosophers to explore the basis for legitimate political authority. |
+| Natural rights | Inherent, universal entitlements not dependent on laws, customs, or beliefs of any particular culture or government; often including rights to life, liberty, and property. |
+| Explicit consent | Direct and clear agreement given through verbal or written means, where a person actively and knowingly agrees to something. |
+| Tacit consent | Implied agreement indicated through actions rather than direct expression, such as continuing to live in a society and accepting its benefits. |
+| Hypothetical consent | Agreement that would reasonably be given by rational persons under ideal conditions, used as a thought experiment to justify political arrangements. |
+| Divine right of kings | The doctrine that monarchs derive their authority directly from God and are accountable only to God, not to their subjects. |
+| Thomas Hobbes | 17th century English philosopher who argued for strong central authority to prevent the chaos of the "state of nature," which he described as "solitary, poor, nasty, brutish, and short." |
+| Leviathan (Hobbes) | Hobbes' 1651 book arguing that peace and civil society require submission to an absolute sovereign, using the biblical sea monster as a metaphor for the powerful state. |
+| Sovereign (Hobbes) | The absolute authority in Hobbes' political theory, created when individuals transfer their rights to a central power that maintains peace through monopolized force. |
+| Prisoner's dilemma | Game theory scenario demonstrating why rational individuals might not cooperate even when it's in their mutual interest, often used to illustrate problems of collective action. |
+| John Locke | 17th century English philosopher who argued governments exist by the consent of the governed to protect natural rights, and citizens have the right to rebel when governments fail this purpose. |
+| Lockean proviso | The condition that appropriation of property is justified only if "enough and as good" remains for others, establishing limits on acquisition rights. |
+| Right to revolution | The principle that people can overthrow a government that fails to protect their natural rights or acts tyrannically against their interests. |
+| John Rawls | 20th century American philosopher who developed a theory of justice emphasizing fairness, including the concepts of the veil of ignorance and the difference principle. |
+| Veil of Ignorance | Rawls' thought experiment where people must design society without knowing their future position in it, encouraging principles that treat all positions fairly. |
+| Original Position | Rawls' hypothetical situation where individuals select principles of justice without knowledge of their personal characteristics or social positions. |
+| Liberty Principle | Rawls' principle stating each person should have equal right to the most extensive basic liberties compatible with similar liberty for others. |
+| Difference Principle | Rawls' principle arguing social and economic inequalities are just only if they benefit the least advantaged members of society. |
