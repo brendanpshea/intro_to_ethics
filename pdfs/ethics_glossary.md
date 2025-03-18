@@ -188,3 +188,33 @@
 | Original Position | Rawls' hypothetical situation where individuals select principles of justice without knowledge of their personal characteristics or social positions. |
 | Liberty Principle | Rawls' principle stating each person should have equal right to the most extensive basic liberties compatible with similar liberty for others. |
 | Difference Principle | Rawls' principle arguing social and economic inequalities are just only if they benefit the least advantaged members of society. |
+
+## Chapter 7: Hegel, Marx, Arendt
+
+| Term | Definition |
+|------|------------|
+| Georg Friedrich Hegel | German philosopher (1770-1831) who developed a comprehensive philosophical system emphasizing the progression of history through dialectical processes toward greater rationality and freedom. |
+| Dialectic | A method of philosophical inquiry that examines contradictions and their resolutions. For Hegel, this involves a process of thesis, antithesis, and synthesis through which consciousness and history develop. |
+| Master-Slave Dialectic | Hegel's account of the fundamental struggle for recognition between consciousnesses, where one becomes the dominant "master" and the other the subservient "slave," illustrating how identity and self-consciousness emerge through relationships with others. |
+| Civil Society (Hegel) | The realm between family and state where individuals pursue their private interests through economic activity and social associations, characterized by both freedom and conflict. |
+| Rational State (Hegel) | The highest form of ethical life that reconciles individual freedom with communal purposes, embodying objective ethical principles and representing the concrete realization of freedom. |
+| World Spirit / Weltgeist | Hegel's concept of an immanent, rational force that progressively unfolds through human history, driving development toward increasing self-consciousness and freedom. |
+| Karl Marx | German philosopher, economist, and revolutionary (1818-1883) who developed theories of historical materialism, capitalism, and communism that profoundly influenced political movements worldwide. |
+| Historical Materialism | Marx's theory that social and historical development is primarily driven by material and economic conditions rather than ideas, with class struggle as the motor of historical change. |
+| Alienation | The condition in capitalist society where workers become estranged from their labor, its products, their human nature, and from other people due to the exploitative structure of production. |
+| Species-being (Marx) | Marx's concept of human essence as fundamentally social and productive, characterized by creative, conscious activity that is compromised under capitalism. |
+| Class Struggle | The ongoing conflict between social classes with opposing interests, which Marx viewed as the primary driving force of historical development and social transformation. |
+| Bourgeoisie | The capitalist class that owns the means of production and employs wage laborers, deriving profit from the surplus value created by workers' labor. |
+| Proletariat | The working class who must sell their labor power to survive, owning no means of production themselves, and whom Marx identified as the revolutionary class capable of overthrowing capitalism. |
+| Capital | The wealth used to produce more wealth through the exploitation of labor, existing as factories, machines, money, or other assets that enable the extraction of surplus value. |
+| Communism | The socioeconomic system Marx envisioned would replace capitalism, characterized by common ownership of the means of production, abolition of private property, and the end of class divisions. |
+| Praxis (Marx) | The unity of theory and practice, where philosophical ideas are realized through revolutionary action to transform society rather than merely interpret it. |
+| Hannah Arendt | German-American political theorist (1906-1975) who analyzed totalitarianism, the human condition, and political action, emphasizing the importance of public space for political freedom. |
+| Totalitarianism | Arendt's analysis of a modern form of tyranny (exemplified by Nazi Germany and Stalinist Soviet Union) characterized by mass mobilization, ideology, terror, and the elimination of plurality and spontaneity. |
+| Labor (Arendt) | The activity corresponding to biological necessity and bodily needs, producing consumable goods that leave nothing permanent behind and confining humans to the private realm of necessity. |
+| Work (Arendt) | The activity of fabrication that produces durable objects and artifacts, creating a stable human world that transcends individual mortality and provides the physical context for political action. |
+| Action (Arendt) | The distinctly political activity performed directly between people without mediation of things, revealing the unique identity of actors and creating new beginnings in the public realm. |
+| Power (Arendt) | The capacity that emerges when people act together in concert, distinct from violence or strength, and constituting the essence of political communities and public spaces. |
+| Natality (Arendt) | The human capacity to begin something new, to initiate unexpected actions, rooted in the fact of birth. For Arendt, this capacity for new beginnings forms the basis of political freedom. |
+| Banality of Evil | Arendt's controversial concept describing how ordinary people can commit terrible acts through thoughtlessness and bureaucratic detachment rather than through monstrous intentions or fanaticism. |
+| Adolf Eichmann | Nazi bureaucrat responsible for organizing the transportation of Jews to concentration camps, whose trial Arendt covered in Jerusalem (1961), leading to her analysis of the "banality of evil." |
