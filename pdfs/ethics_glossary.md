@@ -221,8 +221,6 @@
 
 ## Chapter 8: Nietzsche's Ethics
 
-# Ethics Textbook Glossary
-
 | Term | Definition |
 |------|------------|
 | Frederich Nietzsche | German philosopher (1844-1900) who critiqued traditional morality, religion, and philosophy. Known for concepts like the will to power, eternal recurrence, and the death of God. |
