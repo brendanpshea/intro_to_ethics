@@ -218,3 +218,34 @@
 | Natality (Arendt) | The human capacity to begin something new, to initiate unexpected actions, rooted in the fact of birth. For Arendt, this capacity for new beginnings forms the basis of political freedom. |
 | Banality of Evil | Arendt's controversial concept describing how ordinary people can commit terrible acts through thoughtlessness and bureaucratic detachment rather than through monstrous intentions or fanaticism. |
 | Adolf Eichmann | Nazi bureaucrat responsible for organizing the transportation of Jews to concentration camps, whose trial Arendt covered in Jerusalem (1961), leading to her analysis of the "banality of evil." |
+
+## Chapter 8: Nietzsche's Ethics
+
+# Ethics Textbook Glossary
+
+| Term | Definition |
+|------|------------|
+| Frederich Nietzsche | German philosopher (1844-1900) who critiqued traditional morality, religion, and philosophy. Known for concepts like the will to power, eternal recurrence, and the death of God. |
+| Aphorism | Brief, concise statement expressing a principle or observation; a literary form Nietzsche frequently employed to present philosophical insights. |
+| Normative ethics | Branch of ethics concerned with establishing standards or norms for right conduct and determining what actions are morally obligatory, permissible, or wrong. |
+| Descriptive ethics | Study of people's moral beliefs and behaviors as empirical facts without making judgments about their validity; examines how morality functions in various cultures and contexts. |
+| Genealogy of morals | Nietzsche's method of historically tracing the development of moral concepts to reveal their origins in power relations, psychological needs, and social forces rather than objective truth. |
+| Doctrine of types | Nietzsche's view that fundamental psychological and physiological differences exist between individuals that determine their values, perspectives, and potential; rejects universal human nature. |
+| Morality in the pejorative sense | Nietzsche's critical term for systems of morality based on renunciation, self-denial, and hostility to life; contrasted with noble ethics that affirm existence. |
+| Problem of free will | Philosophical question addressing whether humans can make choices independent of deterministic causes or prior conditions; concerns responsibility, desert, and the possibility of autonomous agency. |
+| Problem of self-knowledge | Difficulty of gaining accurate understanding of one's motives, desires, and character due to self-deception, unconscious drives, and the perspectival nature of knowledge. |
+| Problem of human difference | Ethical and political challenge posed by natural variations in human capacities, talents, and traits; involves questions about equality, merit, and social organization. |
+| Slave morality | Nietzsche's term for value systems originating from the resentment of the weak against the strong; emphasizes humility, compassion, equality, and condemns pride, strength, and self-assertion. |
+| Master morality | Value system created by those with power that affirms strength, nobility, excellence, and self-creation; judges actions based on consequences rather than intentions. |
+| Ressentiment | French term Nietzsche used for the psychological state of suppressed vengefulness and hatred felt by the powerless; motivates creation of moral values that condemn the powerful. |
+| Nihilism | Philosophical position that life lacks inherent meaning, purpose, or intrinsic value; for Nietzsche, both a danger and opportunity for revaluation. |
+| Revaluation of values | Nietzsche's project to overturn traditional moral judgments and create new values affirming life, strength, and creativity; replaces transcendent standards with immanent ones. |
+| "God is dead" | Nietzsche's proclamation that belief in the Christian God had become unbelievable in modern European culture, creating a crisis of meaning and authority in morality and knowledge. |
+| Herd morality | System of values promoting conformity, mediocrity, and security at the expense of excellence, risk, and distinction; serves the needs of the majority while suppressing exceptional individuals. |
+| Last man | Nietzsche's symbol of humanity's future if nihilism is not overcome; represents contentment with comfort, security, and small pleasures without aspiration to greatness or meaning. |
+| Higher human being | Individual who transcends conventional morality, creates values, embraces suffering as growth, and cultivates a unified character; exemplifies excellence and self-overcoming. |
+| Will to power | Fundamental drive Nietzsche identifies as underlying all human behavior; not merely political domination but the expression of strength, growth, self-overcoming, and creative transformation. |
+| Perspectivism | Epistemological view that all knowledge is situated and partial, reflecting particular perspectives, interests, and interpretations rather than objective reality. |
+| Moral anti-realism | Position that moral judgments do not describe objective facts but express attitudes, cultural conventions, or subjective values; denies mind-independent moral properties. |
+| Eternal recurrence | Nietzsche's thought experiment proposing the endless repetition of all events; serves as a test of affirmation—can one embrace life so fully as to will its infinite return? |
+| Amor fati | "Love of fate"; Nietzsche's ideal attitude of embracing necessity, affirming all aspects of one's life including suffering, and transforming constraints into opportunities for creation. |
