@@ -247,3 +247,32 @@
 | Moral anti-realism | Position that moral judgments do not describe objective facts but express attitudes, cultural conventions, or subjective values; denies mind-independent moral properties. |
 | Eternal recurrence | Nietzsche's thought experiment proposing the endless repetition of all events; serves as a test of affirmation—can one embrace life so fully as to will its infinite return? |
 | Amor fati | "Love of fate"; Nietzsche's ideal attitude of embracing necessity, affirming all aspects of one's life including suffering, and transforming constraints into opportunities for creation. |
+
+## Chapter 9: Simone de Beauvoir's Ethics
+
+| Term | Definition |
+|------|------------|
+| Simone de Beauvoir | French philosopher, writer, and feminist (1908-1986) who developed existentialist ethics with emphasis on freedom, situation, and gendered experience. A major figure in 20th century philosophy who challenged conventional understandings of womanhood and sexuality. |
+| Jean Paul Sartre | French philosopher, playwright, and novelist (1905-1980) who developed existentialist philosophy emphasizing radical freedom, responsibility, and authenticity. His work explores human consciousness and the burden of choice. |
+| Existentialism | Philosophical approach emphasizing individual existence, freedom, and choice. Focuses on the human struggle to find meaning in an apparently meaningless universe, highlighting personal responsibility for creating values through conscious choices. |
+| Authenticity (Existentialism) | Living in accordance with one's actual self rather than social expectations; embracing personal freedom and responsibility without self-deception. Requires acknowledging uncomfortable truths about existence and freedom. |
+| Existence precedes essence | Philosophical principle stating that humans first exist without predetermined purpose, then define themselves through choices and actions. Contrasts with essentialist views that humans have fixed natures determined by God or nature. |
+| Radical freedom | Concept describing the total, inescapable freedom humans possess to choose and create meaning. Emphasizes that even circumstances beyond control do not eliminate the freedom to choose one's attitude and interpretation of situations. |
+| Anguish (Existentialism) | Emotional response to recognizing the weight of complete freedom and responsibility for one's choices. The distress that comes with understanding that decisions affect not only oneself but establish values for humanity. |
+| Bad Faith (Existentialism) | Self-deception where one denies their freedom and responsibility by identifying completely with social roles or treating oneself as a fixed object. An inauthentic existence that avoids the anxiety of freedom. |
+| Situated freedom | Recognition that while humans possess fundamental freedom, this freedom always operates within specific historical, social, and material contexts that present real limitations and possibilities. |
+| The Second Sex | Groundbreaking 1949 feminist philosophical work analyzing women's oppression through existentialist framework. Examines historical, biological, psychological, and social factors shaping female experience. |
+| The Other | Social-philosophical concept describing individuals or groups positioned as fundamentally different or alien to the dominant group. Often involves objectification and denial of full subjectivity and autonomy. |
+| Sex | Biological classification based on physical characteristics including chromosomes, hormones, and reproductive anatomy. Distinguished from gender in feminist and existentialist analysis. |
+| Gender | Social and cultural constructions of behaviors, roles, and attributes considered appropriate for different sexes within specific societies. Distinguished from biological sex in feminist philosophy. |
+| Immanence | State of being confined within limitations of everyday material existence and biological necessities. In existentialist feminism, associated with traditional female roles centered on maintenance and repetition. |
+| Transcendence | Active engagement with the world through projects that extend beyond immediate existence. The capacity to surpass given conditions through creative action and self-determination. |
+| Myth of woman | Cultural construction presenting femininity as eternal, unchanging essence rather than historical situation. Justifies restricting women to prescribed roles by claiming these limitations reflect natural order. |
+| Lived experience (de Beauvoir) | Subjective, first-person perspective on one's embodied existence within specific historical and cultural contexts. Central methodological approach examining how social structures are internalized and inhabited. |
+| Ambiguity (de Beauvoir) | Fundamental condition of human existence characterized by tension between freedom and facticity, transcendence and immanence. Ethical approach requiring acknowledgment of contradictions in human condition. |
+| Sub-human | Existentialist concept describing those who surrender authentic existence by slavishly following external authority or convention. Involves abdicating personal responsibility for creating meaning and values. |
+| Serious Person | One who evades freedom by attributing absolute value to external objects, institutions, or roles. Characterized by rigid adherence to conventions and denial of human responsibility for creating values. |
+| Nihilist | Individual who recognizes freedom but refuses to create positive values, instead embracing destruction or indifference. Rejects meaning-making without offering alternatives, often resulting from disillusionment. |
+| Reciprocal Freedom | Ethical ideal where individuals recognize and support the freedom of others rather than attempting to dominate or objectify them. Basis for authentic human relationships and genuine ethics. |
+| The Appeal | Ethical call from one consciousness to another, asking for recognition of mutual freedom. Request for solidarity that acknowledges both shared humanity and individual autonomy. |
+| Situational Ethics | Approach rejecting universal moral principles in favor of context-dependent ethical decisions. Evaluates actions based on specific circumstances rather than abstract rules, emphasizing freedom and responsibility. |
