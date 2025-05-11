@@ -305,3 +305,54 @@
 | Cultural Universalism | The position that certain moral values transcend cultural boundaries and apply to all human beings regardless of their cultural background or historical context. |
 | Cosmopolitanism | A philosophical perspective advocating for universal community based on shared humanity rather than national, cultural, or ethnic divisions. Recognizes difference without privileging it over human commonality. |
 | Identities | Social categories and self-conceptions through which individuals understand themselves and are understood by others. May include racial, ethnic, gender, sexual, religious, or other dimensions that shape experiences and social relations. |
+
+## Chapter 11: Environmental Ethics
+
+
+| Term | Definition |
+|------|------------|
+| Instrumental value | Worth derived from usefulness as a means to achieve something else; value as a tool or resource for human ends rather than for its own sake. |
+| Intrinsic value | Worth that exists independently of usefulness to others; inherent worth regardless of any benefits provided to humans or other beings. |
+| Anthropocentrism | Philosophical viewpoint that human beings are the central or most significant entities in the universe, with nature existing primarily to serve human needs and interests. |
+| Sentience | Capacity to have subjective experiences, particularly the ability to feel pleasure and pain; often used as a criterion for moral consideration in environmental ethics. |
+| Land Ethic | Ethical framework developed by Aldo Leopold that extends moral consideration to the entire biotic community including soils, waters, plants and animals; promotes actions that preserve the integrity and stability of the biotic community. |
+| Cost-benefit analysis | Method of evaluating environmental policies by comparing monetary costs against monetary benefits; criticized for reducing complex ecological values to economic terms. |
+| Rights | Justified claims or entitlements that impose duties on others; in environmental ethics, may extend beyond humans to animals, ecosystems, or natural features. |
+| Subject-of-a-life | Concept developed by Tom Regan referring to individuals who possess beliefs, desires, perception, memory, emotions, and a sense of their own future; used to argue for animal rights. |
+| Reciprocity | Mutual exchange of benefits or obligations; in environmental ethics, addresses the imbalance that humans can impact nature while nature cannot directly negotiate with humans. |
+| Climate change | Long-term alteration in global or regional climate patterns, particularly the increase in average temperature due to human activities releasing greenhouse gases. |
+| Historical responsibility argument | Ethical position that nations which have historically emitted more greenhouse gases bear greater responsibility for addressing climate change. |
+| Ability-to-pay argument | Ethical position that wealthier nations should bear more costs for addressing environmental problems based on their greater economic capacity. |
+| Subsistence emissions | Greenhouse gas emissions resulting from activities essential for basic human survival and dignity. |
+| Luxury emissions | Greenhouse gas emissions resulting from non-essential activities or consumption that could be reduced without threatening basic human needs. |
+| Wilderness | Natural environment that remains relatively untouched by human civilization; valued for ecological, aesthetic, spiritual, and recreational reasons. |
+| Conservation refugees | People displaced from their traditional lands due to conservation efforts such as the creation of protected areas or national parks. |
+| Environmental justice | Fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income with respect to development, implementation, and enforcement of environmental laws, regulations, and policies. |
+| Biodiversity | Variety and variability of life forms within a given ecosystem, biome, or the entire Earth; encompasses genetic, species, and ecosystem diversity. |
+| Endangered Species Act | U.S. federal legislation enacted in 1973 that provides for the conservation of species that are endangered or threatened, and the ecosystems upon which they depend. |
+
+
+## Chapter 12: Bioethics 
+
+| Term | Definition |
+|------|------------|
+| Bioethics | The systematic study of ethical issues arising from advances in biology, medicine, and healthcare, addressing the moral questions about what we should do versus what we can do. |
+| Autonomy | The capacity of individuals to make informed, uncoerced decisions about their own healthcare; the foundation for informed consent, truth-telling, and confidentiality. |
+| Beneficence | Actions that promote the well-being of others, creating a positive obligation for healthcare professionals to act for the benefit of patients beyond merely avoiding harm. |
+| Non-maleficence | The obligation not to inflict harm or injury intentionally, embodied in the principle "primum non nocere" (first, do no harm); encompasses avoiding physical injury, pain, disability, and psychological suffering. |
+| Justice | Fair, equitable, and appropriate distribution of health benefits and burdens, requiring that like cases be treated alike while relevant differences may justify differential treatment. |
+| Informed consent | The practical application of respect for autonomy requiring disclosure of relevant information, patient understanding, voluntariness, and competence to decide. |
+| Decision-making capacity | The ability to understand relevant information, appreciate the situation, reason about options, and communicate a choice; decision-specific rather than global. |
+| Principlism | Ethical framework developed by Beauchamp and Childress offering a practical middle ground between abstract ethical theories and case-by-case decision making. |
+| Paternalism | Overriding individual choices for their own good, based on beneficence without respecting autonomy; may be "soft" (intervening when actions are non-voluntary) or "hard" (overriding voluntary choices). |
+| Shared decision-making | A collaborative approach where clinicians and patients work together to make healthcare decisions, balancing medical evidence with patient values and preferences. |
+| Doctrine of Double Effect | Ethical principle holding that an action with both good and harmful effects may be permissible if the good effect is intended while the harmful effect is merely foreseen (not intended). |
+| Distributive justice | Fair allocation of limited healthcare resources across populations, with different models proposing competing criteria for just distribution. |
+| Egalitarian theory | Ethical approach emphasizing equal access to healthcare for all persons regardless of ability to pay or other non-medical factors. |
+| Libertarian theory | Ethical approach focusing on free-market distribution of healthcare and individual rights to choose services without government interference. |
+| Utilitarian theory | Ethical approach prioritizing maximizing overall health benefits across the population, often using metrics like quality-adjusted life years. |
+| Macro-allocation | System-level healthcare resource distribution decisions, such as healthcare budgets, insurance coverage policies, or hospital construction. |
+| Micro-allocation | Decisions about specific patients when resources are scarce, such as organ transplant waitlists, ICU beds, or ventilator allocation during crises. |
+| Substituted judgment | Decision-making standard for patients lacking capacity that asks what the patient would want if able to decide, based on their known values and preferences. |
+| Best interest standard | Decision-making approach focusing on what would most promote a patient's welfare when they lack capacity and their preferences are unknown. |
+| Prima facie duties | Conditional obligations that must be fulfilled unless they conflict with another obligation of equal or greater weight; the basis for resolving conflicts between bioethical principles. |
